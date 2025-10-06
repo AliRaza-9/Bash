@@ -1,0 +1,18 @@
+
+
+this is demo file used to practice shell scripting
+all the basic shell commands will be tested here
+Following are the basic shell commands:
+
+1.  ls: used to list files in a directory
+2.  cd: used to change the directory
+3.  pwd: used to print the path of current working directory
+4:  cat: used to list content of the file and also concatinate two files to a new file
+5.  echo: used to print any line or text
+6:  rm: used to remove a file
+7:  mv:  used to rename or move a file from one location to other
+8:  mkdir: to make a new directory
+9:  touch: to make a new file if not exits. also used to change the timestamp of an existing file.
+10. cp:  used to copy file to a new destination.
+11. man:  use dto list documentation of any command.
+12. alias: use dto make shortcut for any command.

@@ -1,3 +1,3 @@
 # Bash Practice
 
-## this repo is to practice bash commands and scripting
+## This repo is to practice bash commands and scripting
